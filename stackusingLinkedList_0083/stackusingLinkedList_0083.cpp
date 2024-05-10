@@ -30,3 +30,4 @@ public:
 	}
 
 	void pop() {
+		if (isEmpty()) {
